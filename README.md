@@ -1,0 +1,1 @@
+This is the source code to my personal website, https://www.aurel.appius.ch/. It is currently based on [Jon Barron's public academic website](https://github.com/jonbarron/website). Please attribute the source to his original website or repo in case you want to clone his website for your personal use.
